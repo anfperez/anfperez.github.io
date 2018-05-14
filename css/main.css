@@ -1,7 +1,7 @@
 body {
     margin: 60px auto;
     width: 70%;
-    background: linear-gradient(to right, pink, purple);
+    background: linear-gradient(to right, white, lightgray);
 }
 
 .typewriter h1 {
