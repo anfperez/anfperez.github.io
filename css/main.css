@@ -4,7 +4,6 @@ body {
     background: linear-gradient(to right, white, pink);
 }
 
-
 nav ul, footer ul {
     font-family:'Helvetica', 'Arial', 'Sans-Serif';
     padding: 0px;
@@ -35,4 +34,5 @@ footer {
 
 .pic {
     width: 200px;
+    height: 100px;
 }
