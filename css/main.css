@@ -1,7 +1,7 @@
 body {
     margin: 60px auto;
     width: 70%;
-    background: linear-gradient(pink, purple);
+    background: linear-gradient(to right, pink, purple);
 }
 nav ul, footer ul {
     font-family:'Helvetica', 'Arial', 'Sans-Serif';
