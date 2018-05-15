@@ -1,2 +1,6 @@
-# anfperez.github.io
-Personal Site
+# Personal Website
+
+## Tools Utilized
+Github.io
+Jekyll
+Sublime Text
