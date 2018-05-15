@@ -36,3 +36,7 @@ img {
     border-radius: 50%;
     float: right;
 }
+
+.project-img {
+    height: 300px;
+}
