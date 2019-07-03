@@ -2,7 +2,7 @@ body {
     margin: 60px auto;
     width: 70%;
     font-family: 'Abel', sans-serif;
-    background-color: pink;
+    background-color: lightgray;
 }
 
 nav ul, footer ul {
@@ -19,7 +19,8 @@ a {
     color: #999;
 }
 a:hover {
-    text-decoration: underline;
+    text-decoration: none;
+    color: white;
 }
 
 p {
@@ -43,5 +44,5 @@ img {
 }
 
 .typewriter {
-    font-family: "Lobster Two", cursive;
+    font-family: 'Lobster Two', cursive;
 }
