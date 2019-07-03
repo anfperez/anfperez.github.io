@@ -41,3 +41,7 @@ img {
 .project-img {
     height: 300px;
 }
+
+.typewriter {
+    font-family: "Lobster Two", cursive;
+}
